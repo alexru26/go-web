@@ -1,3 +1,5 @@
-module github.com/alexru26/GoWeb.git
+module goweb
 
 go 1.20
+
+require github.com/gomarkdown/markdown v0.0.0-20230322041520-c84983bdbf2a
